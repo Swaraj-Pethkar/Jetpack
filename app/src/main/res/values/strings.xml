@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Jetpack</string>
+    <string name="different_api_s">Different API</string>
+    <string name="volley">Volley</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="ok_http">OK HTTP</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="assignment_2">Assignment 2</string>
+    <string name="assignment_3">Assignment 3</string>
+    <string name="assignment_1">Assignment 1</string>
+    <string name="if_yes_then_show">If Yes Then Show</string>
+    <string name="login_or_register">Login Or Register</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="view_data">View Data</string>
+    <string name="store_it_in_file">Store It In File</string>
+    <string name="task_2">Task 2</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_3">Task 3</string>
+    <string name="register_to_file">Register To File</string>
+    <string name="shared_preferences">Shared Preferences</string>
+    <string name="print">Print</string>
+    <string name="data_binding">Data Binding</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="burger">Burger</string>
+    <string name="coffee">Coffee</string>
+    <string name="pizza">Pizza</string>
+
+    <string name="selected_item">Selected item:</string>
+    <string name="room">Room</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="edit_or_delete">Edit Or Delete</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+</resources>
